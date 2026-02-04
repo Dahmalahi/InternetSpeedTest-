@@ -5,7 +5,6 @@ Built with Java ME (J2ME / CLDC / MIDP) – perfect for Nokia S40, Itel, Tecno a
 
 ![image-3](https://github.com/user-attachments/assets/0b543b11-d18a-4101-bd06-990073c40ea7)
 
-*(Replace with real screenshot later – 480×? pixel art canvas style)*
 
 ## ✨ Features
 
